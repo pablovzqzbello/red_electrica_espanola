@@ -23,6 +23,7 @@ MarkupSafe==3.0.2
 matplotlib==3.9.2
 mdurl==0.1.2
 mysql-connector-python==9.1.0
+mysqlclient==2.2.5
 narwhals==1.12.1
 numpy==2.1.2
 packaging==24.1
@@ -65,4 +66,3 @@ keras
 tensorflow
 prophet
 pydeck
-streamlit-lottie
