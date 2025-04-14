@@ -961,7 +961,7 @@ def main():
             },
             {
                 "name": "Pablo Vázquez Bello",
-                "location": "Coruña",
+                "location": "A Coruña",
                 "linkedin": "https://www.linkedin.com/in/pablovazquezbello/",
                 "github": "https://github.com/pablovzqzbello",
                 "image": "auxiliary/img.png",
