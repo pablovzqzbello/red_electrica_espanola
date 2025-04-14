@@ -65,3 +65,4 @@ keras
 tensorflow
 prophet
 pydeck
+streamlit-lottie
