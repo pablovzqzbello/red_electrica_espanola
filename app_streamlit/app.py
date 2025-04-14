@@ -965,7 +965,7 @@ def main():
                 "linkedin": "https://www.linkedin.com/in/pablovazquezbello/",
                 "github": "https://github.com/pablovzqzbello",
                 "image": "auxiliary/img.png",
-                "description": "PhD. e investigador con amplia experiencia en proyectos nacionales e internacionales de I+D+i. Especialista en métodos y técnicas estadísticas, ingeniería de datos, modelos predictivos y diseño de arquitecturas de análisis multivariantes escalables a diversos ámbitos: energía, sociedad, economía y sostenibilidad. Busca soluciones basadas en datos para los restos del mañana."
+                "description": "PhD. e investigador con amplia experiencia en proyectos nacionales e internacionales de I+D+i. Especialista en métodos y técnicas estadísticas, ingeniería de datos, modelos predictivos y diseño de arquitecturas de análisis multivariantes escalables a diversos ámbitos: energía, sociedad, economía y sostenibilidad. Busca soluciones basadas en datos para los retos del mañana."
             },
             {
                 "name": "Néstor Cantón Ordoñez",
